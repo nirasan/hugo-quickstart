@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://nirasan.github.io/hugo-quickstart/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "book"
+canonifyurls = true
